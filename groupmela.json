@@ -1,0 +1,12 @@
+{
+  "description": "WhatsApp Group Directory Website",
+  "repo": "https://github.com/billasirwebdeveloper-a11y/GroupMela.com",
+  "owner": {
+    "username": "billasirwebdeveloper-a11y",
+    "email": "your-email@gmail.com"
+  },
+  "records": {
+    "CNAME": "billasirwebdeveloper-a11y.github.io"
+  },
+  "proxied": false
+}
